@@ -1,0 +1,57 @@
+/* 
+ * Image Requirements for Web Design Trends 2025 Article
+ * File: assets/images/
+ * 
+ * The following images are referenced in the blog article and should be created:
+ */
+
+1. web-trends-2025-hero.jpg (1200x400px)
+   - Hero image showing modern web design elements
+   - Suggestion: Collage of modern UI elements, 3D graphics, AI icons
+   - Color scheme: Blue and gold accent colors
+
+2. ai-personalization.jpg (800x250px)
+   - Image depicting AI personalization in web design
+   - Suggestion: Dashboard with user analytics, AI icons, personalized content blocks
+   - Elements: Charts, user avatars, adaptive interfaces
+
+3. sustainable-design.jpg (400x200px)
+   - Eco-friendly web design concept
+   - Suggestion: Green elements, leaf icons, clean minimal design
+   - Color scheme: Green accents with clean white background
+
+4. 3d-web-design.jpg (800x300px)
+   - 3D elements integrated in web design
+   - Suggestion: Website with floating 3D objects, WebGL effects
+   - Elements: 3D cubes, spheres, interactive elements
+
+5. mobile-first-design.jpg (400x200px)
+   - Mobile-first responsive design
+   - Suggestion: Multiple device screens showing responsive layout
+   - Elements: Phone, tablet, desktop showing same content
+
+6. seo-optimization.jpg (400x200px)
+   - SEO optimization illustration
+   - Suggestion: Search engine results, analytics graphs, ranking symbols
+   - Elements: Magnifying glass, charts, search results
+
+7. performance-optimization.jpg (400x200px)
+   - Website performance and speed optimization
+   - Suggestion: Speed gauge, loading indicators, performance metrics
+   - Elements: Speedometer, rocket icon, optimization symbols
+
+Note: These can be replaced with actual photographs or professional illustrations.
+For immediate use, you can use placeholder images from:
+- Unsplash (unsplash.com)
+- Pixabay (pixabay.com) 
+- Pexels (pexels.com)
+
+Search terms:
+- "web design"
+- "artificial intelligence"
+- "sustainable technology"
+- "3D graphics"
+- "mobile responsive"
+- "SEO analytics"
+- "website performance"
+*/

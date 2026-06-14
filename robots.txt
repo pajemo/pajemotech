@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://pajemotech.com/sitemap.xml
+
+# Disallow specific directories
+Disallow: /admin/
+Disallow: /includes/
+Disallow: /assets/temp/
+Disallow: /vendor/
+Disallow: /.git/
+Disallow: /node_modules/
+
+# Allow CSS and JS files
+Allow: /assets/css/
+Allow: /assets/js/
+Allow: /assets/images/
